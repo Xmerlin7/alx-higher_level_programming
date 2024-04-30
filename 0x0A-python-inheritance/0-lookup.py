@@ -1,10 +1,13 @@
 #!/usr/bin/python3
-``` module for lookup method ```
+'''Module for lookup method.'''
+
+
 def lookup(obj):
-    ``` looks up pbject Attribute 
+    '''Looks up object attributes and methods.
     Args:
-        obj (object): the object of the list
+        obj (object): the object to list.
+
     Returns:
-        list: the list of the attripute
-    ```
+        list: the list of attributes.
+    '''
     return dir(obj)
