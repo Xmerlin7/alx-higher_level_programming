@@ -1,13 +1,6 @@
 #!/usr/bin/dev python3
 
-def addNumbers(a, b):
-    """
-    Add two Numbers
-    
-    This functions takes two numbers a, b and adds them
-    
-    usage:
-    >>> addNumbers(5, 2)
-    8
-    """
-    return (a + b)
+def addNumbers(*args):
+    for arg in args:
+        print(arg, end= " ")
+addNumbers(1, "seif", [5, 6, "ahmed"])
