@@ -1,20 +1,19 @@
+#!/usr/bin/python3
+"""
+Class Base:
+    private class attribute __nb_objects = 0
+    class constructor: def __init__(self, id=None):
+"""
+import json
+import csv
+import turtle
+
+
 class Base:
-    '''
-    This is a class that gives ID
-
-
-    '''
+    """created the class"""
     __nb_objects = 0
 
     def __init__(self, id=None):
-
-        """
-        Initialize a new Base instance.
-
-        Args:
-            id (int, optional): The ID for the instance. If None,
-            a unique ID is assigned.
-        """
         if id is not None:
             self.id = id
         else:
