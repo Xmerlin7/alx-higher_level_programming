@@ -1,5 +1,5 @@
-#!/usr/bin/dev python3
-from models.base
+#!/usr/bin/env python3
+from models.base import Base
 def addNumbers(*args):
     for arg in args:
         print(arg, end= " ")
