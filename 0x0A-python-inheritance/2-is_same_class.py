@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import time
 '''Module for is_same_class method.'''
 
 
