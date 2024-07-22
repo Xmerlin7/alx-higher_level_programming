@@ -1,9 +1,9 @@
 # 0x0D. SQL - Introduction
 `SQL` `MySQL`
-|By: Guillaume								 |
+|By: SEIF								 |
 |:--									 |
 |Weight: 1								 |
-|Project will start Aug 9, 2022 6:00 AM, must end by Aug 10, 2022 6:00 AM|
+|Project over - took place from Feb 13, 2024 5:00 AM to Feb 14, 2024 5:00 AM|
 |An auto review will be launched at the deadline			 |
 
 ## Concepts
