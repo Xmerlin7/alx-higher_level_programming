@@ -5,7 +5,6 @@
 |:--										|
 |Weight: 1									|
 |Project over - took place from Feb 14, 2024 5:00 AM to Feb 15, 2024 5:00 AM	|
-|Checker will be released at Aug 10, 2022 12:00 PM				|
 |An auto review will be launched at the deadline				|
 
 ## Resources
