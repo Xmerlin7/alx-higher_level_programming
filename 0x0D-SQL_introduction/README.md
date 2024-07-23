@@ -1,6 +1,6 @@
 # 0x0D. SQL - Introduction
 `SQL` `MySQL`
-|By: SEIF								 |
+|By: Guillaume								 |
 |:--									 |
 |Weight: 1								 |
 |Project over - took place from Feb 13, 2024 5:00 AM to Feb 14, 2024 5:00 AM|
